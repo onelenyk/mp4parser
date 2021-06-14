@@ -31,7 +31,7 @@
     </dependencies>
     <name>Stream Muxer</name>
     <description>This package has a focus on streams. It can read A/V data from e.g. a network source.</description>
-    <url>https://github.com/sannies/mp4parser</url>
+    <url>https://github.com/onelenyk/mp4parser</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -124,12 +124,12 @@
     </licenses>
     <developers>
         <developer>
-            <id>sannies</id>
+            <id>onelenyk</id>
             <email>Sebastian.Annies@googlemail.com</email>
         </developer>
     </developers>
     <scm>
-        <url>https://github.com/sannies/mp4parser</url>
+        <url>https://github.com/onelenyk/mp4parser</url>
         <tag>mp4parser-project-1.9.35</tag>
     </scm>
 </project>
